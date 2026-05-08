@@ -33,6 +33,10 @@ A comprehensive, production-ready HRMS with an integrated AI chatbot and intelli
 - **Role-Based Access**: Admin, HR, Manager, Employee roles
 - **Rate Limiting**: Per-user and anonymous throttling
 
+## 🎥 Demo Video
+
+[![SynapHR AI Demo](https://img.youtube.com/vi/iWx_wD8lZHo/0.jpg)](https://www.youtube.com/watch?v=iWx_wD8lZHo)
+
 ## 📸 Screenshots
 
 | | |
