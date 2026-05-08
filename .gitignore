@@ -17,7 +17,6 @@ env/
 .env
 
 # Database
-*.sqlite3
 *.db
 
 # Logs
@@ -26,7 +25,6 @@ logs/
 
 # Media files
 media/
-*.mp4
 *.avi
 *.mov
 

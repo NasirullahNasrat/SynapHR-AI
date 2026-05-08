@@ -35,7 +35,11 @@ A comprehensive, production-ready HRMS with an integrated AI chatbot and intelli
 
 ## 🎥 Demo
 
-![SynapHR AI Demo](video.mp4)
+https://github.com/user-attachments/assets/1c7e9f4e-8e7c-4c5f-9b3d-2a6f8e1d4b5c
+
+<video src="https://github.com/NasirullahNasrat/SynapHR-AI/raw/main/video.mp4" controls="controls" style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
 
 ## 🛠 Tech Stack
 
