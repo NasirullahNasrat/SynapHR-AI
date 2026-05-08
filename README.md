@@ -33,19 +33,14 @@ A comprehensive, production-ready HRMS with an integrated AI chatbot and intelli
 - **Role-Based Access**: Admin, HR, Manager, Employee roles
 - **Rate Limiting**: Per-user and anonymous throttling
 
-## 🎥 Demo Videos
+## 📸 Screenshots
 
-<video src="https://github.com/NasirullahNasrat/SynapHR-AI/raw/main/1.mp4" controls="controls" style="max-width: 100%; height: auto;">
-  Your browser does not support the video tag.
-</video>
-
-<video src="https://github.com/NasirullahNasrat/SynapHR-AI/raw/main/2.mp4" controls="controls" style="max-width: 100%; height: auto;">
-  Your browser does not support the video tag.
-</video>
-
-<video src="https://github.com/NasirullahNasrat/SynapHR-AI/raw/main/3.mp4" controls="controls" style="max-width: 100%; height: auto;">
-  Your browser does not support the video tag.
-</video>
+| | |
+|:---:|:---:|
+| ![Screenshot 1](Pictures/1.png) | ![Screenshot 2](Pictures/2.png) |
+| ![Screenshot 3](Pictures/3.png) | ![Screenshot 4](Pictures/4.png) |
+| ![Screenshot 5](Pictures/5.png) | ![Screenshot 6](Pictures/6.png) |
+| ![Screenshot 7](Pictures/7.png) | ![Screenshot 8](Pictures/8.png) |
 
 ## 🛠 Tech Stack
 
