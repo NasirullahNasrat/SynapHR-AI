@@ -1,0 +1,58 @@
+# Django & Core
+Django==5.1.4
+djangorestframework==3.15.2
+django-cors-headers==4.6.0
+django-filter==24.3
+django-axes==6.5.1
+django-timezone-field==7.0
+django-environ==0.11.2
+
+# Database
+psycopg2-binary==2.9.10
+
+# Auth
+djangorestframework-simplejwt==5.4.0
+django-rest-passwordreset==1.4.0
+
+# API Documentation
+drf-spectacular==0.28.0
+
+# Async & Real-time
+channels==4.2.0
+channels-redis==4.2.1
+daphne==4.1.2
+
+# Task Queue
+celery==5.4.0
+redis==5.2.1
+
+# AI/LLM
+openai>=1.55.3,<2.0.0
+langchain==0.3.11
+langchain-community==0.3.11
+langchain-openai==0.2.12
+chromadb==1.5.8
+sentence-transformers==3.3.1
+# tiktoken - requires Rust compiler on Python 3.14; install manually if needed
+# tiktoken==0.8.0
+
+# Utilities
+python-decouple==3.8
+python-dateutil==2.9.0
+pytz==2024.2
+Pillow>=11.1.0
+python-dotenv==1.0.1
+gunicorn==23.0.0
+whitenoise==6.8.2
+django-import-export==4.2.0
+openpyxl==3.1.5
+reportlab==4.2.5
+
+# PDF Generation
+weasyprint==62.3
+
+# Testing
+pytest==8.3.4
+pytest-django==4.9.0
+pytest-cov==6.0.0
+factory-boy==3.3.1

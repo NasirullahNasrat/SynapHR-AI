@@ -1,0 +1,59 @@
+# =============================================================================
+# SynapHR AI - Venv Mode Requirements (Lighter install, no Docker needed)
+# =============================================================================
+# Install with: pip install -r requirements-venv.txt
+# =============================================================================
+
+# Django & Core
+Django==5.1.4
+djangorestframework==3.15.2
+django-cors-headers==4.6.0
+django-filter==24.3
+django-axes==6.5.1
+django-timezone-field==7.0
+django-environ==0.11.2
+
+# Auth
+djangorestframework-simplejwt==5.4.0
+django-rest-passwordreset==1.4.0
+
+# API Documentation
+drf-spectacular==0.28.0
+drf-spectacular-sidecar
+
+# Async & Real-time (Channels with in-memory layer - no Redis needed)
+channels==4.2.0
+daphne==4.1.2
+
+# Task Queue (Celery in eager mode - no Redis needed)
+celery==5.4.0
+
+# AI/LLM (optional - comment out if not using AI features)
+openai>=1.55.3,<2.0.0
+langchain==0.3.11
+langchain-community==0.3.11
+langchain-openai==0.2.12
+chromadb==1.5.8
+sentence-transformers==3.3.1
+# tiktoken - requires Rust compiler on Python 3.14; install manually if needed
+# tiktoken==0.8.0
+
+# Utilities
+python-dateutil==2.9.0
+pytz==2024.2
+# Pillow - use latest stable; if build fails, try: pip install pillow --only-binary=pillow
+Pillow>=11.1.0
+python-dotenv==1.0.1
+whitenoise==6.8.2
+django-import-export==4.2.0
+openpyxl==3.1.5
+reportlab==4.2.5
+
+# PDF Generation (optional - may need GTK on Windows)
+# weasyprint==62.3
+
+# Testing (optional)
+pytest==8.3.4
+pytest-django==4.9.0
+pytest-cov==6.0.0
+factory-boy==3.3.1
